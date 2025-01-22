@@ -1,5 +1,5 @@
 import download from './download.png';
-import logo from './logoUpdated.webp';
+import logo from './logopng.png';
 import preview from './preview.png';
 
 export {
